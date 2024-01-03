@@ -30,7 +30,7 @@ h1,h2,h3,h4,h5,h6, p, ul li{
 .container{
 
     width: 100%;
-    max-width: 1170px;
+    max-width: 1140px;
     margin-left:auto ;
     margin-right:auto ;
     padding-left: 15px;
@@ -52,7 +52,7 @@ h1,h2,h3,h4,h5,h6, p, ul li{
 .header-top{
         width: 100%;
         display: inline-block;
-        background: #2f3f54;
+        background: #2f3f55;
 }
 .header-top-col-left{
 
